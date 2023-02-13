@@ -14,6 +14,7 @@ p {
   margin: 8px;
   font-weight: bold;
   padding-top: 20px;
+  padding-bottom: 25px;
 }
 
 table{
@@ -22,20 +23,14 @@ table{
   height: 200px;
   border-collapse: collapse;
   font-weight: 600;
-
-  
 }
 
-td{
-  padding-right: 15px;
-}
 
 thead{
   background-color: rgb(67, 186, 241);
 }
 
 ul{
-  padding-top: 20px;
   padding-bottom: 20px;
 }
 
@@ -78,4 +73,37 @@ p.data-scritto{
 
 .table-color{
   background-color: aqua;
+}
+
+.adv{
+  color: grey;
+  font-size: 22px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+
+.th-1{
+  width: 133px;
+}
+
+.td-1{
+  width: 600px;
+  text-align: center;
+}
+
+.img1{
+  background-image: url(../image/monitor.jpg) ;
+  color: white;
+  margin: 0;
+  background-repeat: no-repeat;
+  height: 200px;
+  font-size: 30px;
+}
+.img2{
+  background-image: url(../image/graph.jpg) ;
+  color: white;
+  margin: 0;
+  background-repeat: no-repeat;
+  height: 200px;
+  font-size: 30px;;
 }
