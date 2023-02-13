@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+}
+
+/*titolo*/
+h1{
+
+ font-size: 60px;
+ margin: 8px;
+
+}
+
+/*sfondo-header*/
+.logo{
+   height: 80px;  
+   padding-top: 90px;
+}
+
+.sfondo{
+   background-color: dodgerblue;
+   background-image: url(../image/pattern.png);
+   height: 180px;
+}
+
+/*data-scrittura*/
+.data-scritto{
+    color: grey;
+    font-size: 25px;
+    margin: 8px;
+    font-weight: 700;
+}
+
+  .booleaner{
+    color: aqua;
+}
+
+  .data{
+    font-size: 16px;
+}
+
+
+
