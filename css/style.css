@@ -101,6 +101,7 @@ p.data-scritto{
   background-repeat: no-repeat;
   height: 200px;
   font-size: 30px;
+  margin: 8px;
 }
 .img2{
   background-image: url(../image/graph.jpg) ;
@@ -109,4 +110,5 @@ p.data-scritto{
   background-repeat: no-repeat;
   height: 200px;
   font-size: 30px;;
+  margin: 8px;
 }
