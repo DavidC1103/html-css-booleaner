@@ -10,6 +10,35 @@ h1{
 
 }
 
+p {
+  margin: 8px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+table{
+  margin: 8px;
+  width: 100%;
+  height: 200px;
+  border-collapse: collapse;
+  font-weight: 600;
+
+  
+}
+
+td{
+  padding-right: 15px;
+}
+
+thead{
+  background-color: rgb(67, 186, 241);
+}
+
+ul{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 /*sfondo-header*/
 .logo{
    height: 80px;  
@@ -22,8 +51,12 @@ h1{
    height: 180px;
 }
 
+.tim{
+  margin: 8px;
+}
+
 /*data-scrittura*/
-.data-scritto{
+p.data-scritto{
     color: grey;
     font-size: 25px;
     margin: 8px;
@@ -38,5 +71,11 @@ h1{
     font-size: 16px;
 }
 
+/*evidenziato*/
+.yellow{
+    background-color: yellow;
+}
 
-
+.table-color{
+  background-color: aqua;
+}
